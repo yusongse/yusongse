@@ -3,6 +3,4 @@
 <h3 align="center">학습한 기술</h3>
 
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=Python">
-<img src="https://img.shields.io/badge/C++-00599Clogo=C++">
-<img src="https://img.shields.io/badge/androidstudio-3DDC84?logo=androidstudio">
+<img src="https://img.shields.io/badge/python-3776AB?logo=python"> <img src="https://img.shields.io/badge/cplusplus-00599Clogo=cplusplus"> <img src="https://img.shields.io/badge/androidstudio-3DDC84?logo=androidstudio">
