@@ -3,4 +3,4 @@
 <h3 align="center">학습한 기술</h3>
 
 
-<img src="https://img.shields.io/Python-3776AB?logo=Python">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=Python">
