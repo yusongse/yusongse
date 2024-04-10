@@ -4,5 +4,5 @@
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python">
-<img src="https://img.shields.io/badge/C++-#00599Clogo=C++">
-<img src="https://img.shields.io/badge/androidstudio-#3DDC84?logo=androidstudio">
+<img src="https://img.shields.io/badge/C++-00599Clogo=C++">
+<img src="https://img.shields.io/badge/androidstudio-3DDC84?logo=androidstudio">
